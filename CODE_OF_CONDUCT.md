@@ -1,21 +1,23 @@
-# Código de Conduta da Comunidade Sannti
+# Contributor Covenant Code of Conduct
 
-## Nosso Compromisso
-Criar um ambiente aberto, acolhedor e produtivo para colaboradores, usuários e mantenedores.
+## Our Commitment
+We are committed to providing a safe, inclusive, and productive environment for everyone, regardless of background or identity.
 
-## Comportamentos Aceitos
-- Comunicação respeitosa  
-- Discussões técnicas educadas  
-- Colaboração construtiva  
-- Respeito à diversidade
+## Expected Behavior
+- Use welcoming and inclusive language  
+- Respect different viewpoints and experiences  
+- Give and accept constructive feedback  
+- Focus on what is best for the community
 
-## Comportamentos Não Aceitos
-- Assédio ou discriminação  
-- Ataques pessoais  
-- Conteúdos ofensivos  
-- Spam ou má-fé técnica
+## Unacceptable Behavior
+- Harassment or discrimination  
+- Personal attacks or insults  
+- Publishing others’ private information  
+- Any form of disruptive or unethical behavior
 
-## Relato de Violações
-Envie para: **opensource@sannti.com**
+## Reporting Issues
+If you witness or experience a violation of this Code of Conduct, contact:
 
-A Sannti investigará cada caso.
+📧 **opensource@sannti.com**
+
+All complaints will be reviewed and addressed fairly.
