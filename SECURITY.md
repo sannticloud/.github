@@ -1,8 +1,9 @@
-# Segurança
+# Security Policy
 
-Se você encontrou uma vulnerabilidade de segurança em qualquer projeto da Sannti Cloud:
+If you discover a security vulnerability in any Sannti Cloud project, please report it responsibly.
 
-📧 **Envie imediatamente para: `opensource@sannti.com`**
+## 📧 Contact
+**opensource@sannti.com**
 
-Nós investigaremos e responderemos o mais rápido possível.  
-Por favor, não abra issues públicas para vulnerabilidades.
+We will investigate all reports and respond as quickly as possible.  
+Please avoid creating public issues for vulnerabilities.
