@@ -1,69 +1,75 @@
 <h1 align="center">☁️ Sannti Cloud</h1>
-<h3 align="center">Onde a liberdade encontra a nuvem 🇧🇷</h3>
+<h3 align="center">Where freedom meets the cloud 🇧🇷</h3>
 
 <p align="center">
-  <strong>Nuvem brasileira. Zero Lock-In. Soberania Digital.</strong><br/>
-  Infraestrutura, cultura dev e tecnologia construída próximo de quem usa.
+  <strong>Brazilian cloud. Zero Lock-In. Digital Sovereignty.</strong><br/>
+  Infrastructure built close to those who use it — by developers, for developers.
 </p>
 
 ---
 
-## 🚀 Sobre a Sannti Cloud
+## 🚀 About Sannti Cloud
 
-A Sannti é uma plataforma de cloud brasileira projetada para entregar **liberdade, soberania digital e autonomia tecnológica**, sem depender das big clouds internacionais.
+Sannti Cloud is a Brazilian cloud platform designed to deliver **freedom, digital sovereignty, transparency, and real control**, without the lock-in of traditional hyperscalers.
 
-Nosso foco é simples:
+Our mission is clear:
 
 - **Zero Lock-In**  
-- **Infraestrutura transparente**  
-- **Cloud acessível, poderosa e perto de você**  
-- **Tecnologia construída junto com a comunidade dev**  
+- **Open, transparent infrastructure**  
+- **Developer-first experience**  
+- **Cloud built close to home, with local impact**
+
+We believe technology should empower, not restrict.
 
 ---
 
-## 🧰 Repositórios e Projetos
+## 🧰 What you’ll find here
 
-Aqui você encontrará:
+This organization contains the evolving ecosystem of Sannti Cloud:
 
-- SDKs oficiais (JS, Python, Go, PHP)
-- CLI da Sannti Cloud
-- Templates de deploy (Kubernetes, Docker, Terraform)
-- Exemplos práticos (Node, Laravel, Next.js, WordPress)
-- Documentação pública
-- Recursos para startups e builders
-- Conteúdos open-source do ecossistema Sannti
+- Official SDKs (JavaScript, Python, Go, PHP)
+- Sannti CLI
+- Infrastructure templates (Kubernetes, Terraform, Docker)
+- App examples and boilerplates
+- Public documentation
+- Tools for startups and builders
+- Open-source components of the Sannti platform
 
----
-
-## 🤝 Comunidade & Contribuição
-
-A Sannti acredita que tecnologia nasce em comunidade.  
-Se quiser contribuir, sugerir melhorias ou abrir PRs:
-
-- Leia nosso **CONTRIBUTING.md**
-- Respeite nosso **Código de Conduta**
-- Participe via issues e discussions
+New repositories are added frequently as the platform grows.
 
 ---
 
-## 🔐 Segurança
+## 🤝 Contributing
 
-Encontrou alguma vulnerabilidade em nossos projetos?
+We believe in community-driven cloud.  
+If you want to contribute:
 
-**→ Envie imediatamente para: `opensource@sannti.com`**
+- Read our **CONTRIBUTING.md**
+- Follow our **Code of Conduct**
+- Open issues, discussions, or send PRs
 
-Nossa equipe responderá e tratará o caso o mais rápido possível.
+Every contribution helps shape a more open and sovereign cloud for Brazil and beyond.
 
 ---
 
-## 🌐 Links importantes
+## 🔐 Security
 
-- Site oficial: https://sannti.com  
-- Marca & identidade: https://branding.sannti.com
-- Contato técnico: `opensource@sannti.com`
+If you discover a security vulnerability in any Sannti Cloud project:
+
+📧 **Report it to: `opensource@sannti.com`**
+
+Please do not open public issues for sensitive reports.  
+We will respond and address the matter as quickly as possible.
+
+---
+
+## 🌐 Useful Links
+
+- Official website: https://sannti.com
+- Contact (technical): **opensource@sannti.com**
 
 ---
 
 <p align="center">
-  Feito no Brasil • Para o mundo • Com liberdade️
+  Built in Brazil • For the world • With freedom 
 </p>
