@@ -1,17 +1,20 @@
-# Contribuindo para a Sannti Cloud
+# Contributing to Sannti Cloud
 
-Obrigado por querer contribuir! 🚀
+Thank you for your interest in contributing! 🚀  
+We welcome contributions of all types: code, documentation, examples, ideas, and feedback.
 
-## Como contribuir
-1. Abra uma issue descrevendo sua ideia, bug ou melhoria.  
-2. Aguarde feedback da equipe.  
-3. Faça um fork do repositório.  
-4. Crie uma branch: `feature/nome-da-feature`  
-5. Envie um Pull Request bem descrito.
+## How to Contribute
+1. Open an issue describing your idea, improvement, or bug.  
+2. Wait for feedback from maintainers.  
+3. Fork the repository.  
+4. Create a branch:  
+   `git checkout -b feature/your-feature-name`
+5. Submit a pull request with a clear description.
 
-## Estilo de código
-- Siga padrões da linguagem do repositório.  
-- Mantenha commits claros e descritivos.
+## Commit Guidelines
+- Keep commits focused and descriptive.  
+- Use conventional commit messages when possible.
 
-## Comunicação
-Dúvidas técnicas: `opensource@sannti.com`
+## Communication
+If you have technical questions, reach out at:  
+📧 **opensource@sannti.com**
